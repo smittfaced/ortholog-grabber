@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Apache-HttpComponents">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../OG 2.0/resources/Apache-HttpComponents" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../OG 2.0/resources/Apache-HttpComponents" recursive="false" />
+  </library>
+</component>

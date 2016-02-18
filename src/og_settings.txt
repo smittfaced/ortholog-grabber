@@ -1,0 +1,6 @@
+>Default*
+Human,Mouse,A. gambiae,A. mellifera,Alpaca,American alligator,Armadillo,Atlantic cod,Baboon,Bonobo,Budgerigar,Bushbaby,C. brenneri,C. briggsae,C. elegans,C. intestinalis,C. japonica,C. remanei,Cat,Chicken,Chimp,Chinese hamster,Coelacanth,Cow,D. ananassae,D. erecta,D. grimshawi,D. melanogaster,D. mojavensis,D. persimilis,D. pseudoobscura,D. sechellia,D. simulans,D. virilis,D. yakuba,Dog,Dolphin,Ebola virus,Elephant,Elephant shark,Fugu,Gibbon,Gorilla,Guinea pig,Hedgehog,Horse,Kangaroo rat,Lamprey,Lancelet,Lizard,Manatee,Marmoset,Medaka,Medium ground finch,Megabat,Microbat,Minke whale,Mouse lemur,Naked mole-rat,Nile tilapia,Opossum,Orangutan,P. pacificus,Painted turtle,Panda,Pig,Pika,Platypus,Rabbit,Rat,Rhesus,Rock hyrax,S. cerevisiae,S. purpuratus,Sea hare,Sheep,Shrew,Sloth,Squirrel,Squirrel monkey,Stickleback,Tarsier,Tasmanian devil,Tenrec,Tetraodon,Tree shrew,Turkey,Wallaby,White rhinoceros,X. tropicalis,Zebra finch,Zebrafish
+
+%other_settings
+5:500
+3:500

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JSoup">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../OG 2.0/resources/JSoup" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../OG 2.0/resources/JSoup" recursive="false" />
+  </library>
+</component>

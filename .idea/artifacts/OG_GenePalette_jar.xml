@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OG GenePalette:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OG_GenePalette_jar</output-path>
+    <root id="archive" name="OG.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/OG GenePalette/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="OG" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../OG 2.0/resources/JSoup/jsoup-1.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../OG 2.0/resources/Apache-HttpComponents/jna-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../OG 2.0/resources/Apache-HttpComponents/httpcore-4.4.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../OG 2.0/resources/Apache-HttpComponents/httpmime-4.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../OG 2.0/resources/Apache-HttpComponents/fluent-hc-4.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../OG 2.0/resources/Apache-HttpComponents/httpclient-4.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../OG 2.0/resources/Apache-HttpComponents/commons-codec-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../OG 2.0/resources/Apache-HttpComponents/jna-platform-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../OG 2.0/resources/Apache-HttpComponents/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../OG 2.0/resources/Apache-HttpComponents/httpclient-win-4.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../OG 2.0/resources/Apache-HttpComponents/httpclient-cache-4.5.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
