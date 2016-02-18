@@ -1,5 +1,9 @@
 # ortholog-grabber
-Ortholog Grabber JAVA Runnable for use with GenePalette Software or Independently 
+Ortholog Grabber JAVA Runnable for use with GenePalette Software or Independently
+	- Ortholog Grabber started as a project add-in for GenePalette. During development I split the code to allow for an independent version of OG to be developed alongside the original plugin. OG uses the UCSC Genome Browser to BLAT search a sequence and return the possible ortholog species matches of that sequence. The user then selects the sequences that meet their quality criteria and OG outputs a .fasta file containing all of the selected sequences. [genome.ucsc.edu/]
+	
+	- GenePalette is a powerful cross-platform and cross-species desktop application for genome sequence visualization and navigation. Users can download segments of genome sequence from NCBI’s GenBank database from a variety of organisms and annotate the sequences within a colorful graphical representation of the gene organization and intron/exon structure. [genepalette.org]
+
 
 Welcome to OG!
 
